@@ -1,0 +1,4 @@
+Goods		Price
+Books		14
+Pens		39
+Bags		50
